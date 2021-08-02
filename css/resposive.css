@@ -38,8 +38,8 @@
 }
 @media (max-width:535px) {
     .ft-image {
-        background-image:url(../images/foot.jpg);
         object-fit: cover;
+        background-image:url(../images/foot.jpg);
         width: 100%;
         height: 100%;
 
